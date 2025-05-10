@@ -144,28 +144,5 @@
   </ul>
 </div>
 
-## 🤝 支持项目
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="600px" alt="赞赏码" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
-  <p><b>您的支持是我持续更新的动力 ❤️</b></p>
-</div>
-
-## 📞 联系方式
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/lx.png" width="300px" alt="联系方式" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
-</div>
-</div>
-
-<hr style="height:2px; border-width:0; background: linear-gradient(to right, #f78ca0, #f9748f, #fd868c, #fe9a8b)">
-
-<div align="center">
-  <p>
-    <sub>Made with ❤️ by <a href="https://github.com/wwb521">wwb521</a></sub>
-  </p>
-  <p>
-    <sub>Copyright © 2024 All Rights Reserved.</sub>
-  </p>
-</div>
 
